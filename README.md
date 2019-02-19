@@ -7,7 +7,7 @@ See your build results here - https://travis-ci.org/StartITProtractorJS
 
 # startit js ui automation course
 Demo project for startit students
-
+[![Build Status](https://travis-ci.org/StartITProtractorJS/7-js-ui-wdio-poringfox.svg?branch=master)](https://travis-ci.org/StartITProtractorJS/7-js-ui-wdio-poringfox)
 
 To make sure everything works in this initial repo:
 - clone
