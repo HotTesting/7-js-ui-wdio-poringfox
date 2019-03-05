@@ -16,7 +16,8 @@ exports.config = {
     ui: "bdd",
     timeout: 120000
   },
-  before: function(capabilities, specs) {
+  reporters: ['spec'],
+  before: function (capabilities, specs) {
     process.env.TS_NODE_FILES = true;
     require("ts-node").register();
   }
